@@ -48,7 +48,6 @@ I'm a **Data Engineer / Data Analyst in training**, focused on building data pip
 ### 📌 Highlighted Projects
 - 📂 File upload to S3 using Python (boto3)
 - 🔄 ETL from S3 to PostgreSQL (RDS)
-- 🏗️ *(Reserved space for upcoming projects: orchestration, dashboards, data pipelines)*
 
 📫 **Contact:**  
 📍 Email: br.a.gabrielloni@gmail.com  
