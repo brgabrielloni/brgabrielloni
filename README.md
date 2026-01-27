@@ -25,7 +25,7 @@ Estoy formándome como **Data Engineer** y **Data Analyst**, enfocado en crear p
 
 📫 **Contacto:**  
 📍 Email: br.a.gabrielloni@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/brgabrielloni
+🔗 LinkedIn: https://www.linkedin.com/in/braian-a-gabrielloni
 
 ---
 
