@@ -30,9 +30,11 @@ Estoy formándome como **Data Analyst** y **Data Engineer**, enfocado en crear p
 
 ## 🇬🇧 Hi there!
 
-I'm a **Data Engineer / Data Analyst in training**, focused on building data pipelines, cloud workflows, and automating data processes. I’m passionate about turning raw data into structured, valuable insights.
+I'm a ** Data Analyst/Data Engineer in training**, focused on building data pipelines, cloud workflows, and automating data processes. I’m passionate about turning raw data into structured, valuable insights.
 
 ### 🚀 What I’m currently working on
+- Integrating data transformation using Python and SQL
+- Developing advanced SQL queries
 - Improving ETL pipelines using AWS (S3, Lambda, Glue, RDS)
 - Data transformation with Python and SQL
 - Preparing new portfolio projects (parquet, dashboards, orchestration)
