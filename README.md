@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dummyimage.com/1200x200/f5f5f5/222222&text=Braian+Gabrielloni+–+Data+Engineer+%2F+Data+Analyst" alt="Braian Gabrielloni – Data Engineer / Data Analyst">
+  <img src="https://dummyimage.com/1200x200/f5f5f5/222222&text=Braian+Gabrielloni+–+Data+Engineer+%2F+Data+Analyst" alt="Braian Gabrielloni – Data Analyst / Data Engineer">
 </p>
 
 
