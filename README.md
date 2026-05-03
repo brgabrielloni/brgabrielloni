@@ -5,11 +5,13 @@
 
 # 👋 Hola, soy Braian
 
-Estoy formándome como **Data Engineer** y **Data Analyst**, enfocado en crear pipelines de datos, automatizar procesos y trabajar con tecnologías en la nube. Me interesan especialmente los datos como herramienta para tomar decisiones y construir soluciones escalables.
+Estoy formándome como **Data Analyst** y **Data Engineer**, enfocado en crear pipelines de datos, automatizar procesos y trabajar con tecnologías en la nube. Me interesan especialmente los datos como herramienta para tomar decisiones y construir soluciones escalables.
 
 ### 🚀 En qué estoy trabajando ahora
-- Mejorando proyectos ETL con AWS (S3, Lambda, Glue, RDS)
 - Integrando transformación de datos con Python y SQL
+- Desarrollo de consultas avanzadas en SQL
+- Creación de reportes y tableros en Power BI y Microstrategy
+- Mejorando proyectos ETL con AWS (S3, Lambda, Glue, RDS)
 - Preparando nuevos proyectos para mi portfolio (parquet, dashboards y orquestación)
 
 ### 🔧 Tecnologías y herramientas
