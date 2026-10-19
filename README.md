@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Braian
 
-Soy **Data Analyst** y **Data Engineer**, enfocado en crear pipelines de datos, automatizar procesos y trabajar con tecnologías en la nube. Me interesan especialmente los datos como herramienta para tomar decisiones y construir soluciones escalables.
+Soy **Data Analyst** y actualmente formándome también como **Data Engineer**, enfocado en crear pipelines de datos, automatizar procesos y trabajar con tecnologías en la nube. Me interesan especialmente los datos como herramienta para tomar decisiones y construir soluciones escalables.
 
 ### 🚀 En qué estoy trabajando ahora
 - Integrando transformación de datos con Python y SQL
